@@ -80,6 +80,9 @@
 .no-js {
   .main-header__nav {
     display: block;
+    position: static;
+    z-index: 5555;
+    margin-top: 0;
   }
 }
 
